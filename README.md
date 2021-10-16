@@ -1,3 +1,1 @@
-This folder will contain all of my one file standalone projects
-
-By Carloschi7
+This is the folder which contains all of my C/C++ applications, please feel free to report bugs if needed
