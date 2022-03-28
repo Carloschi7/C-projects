@@ -1,6 +1,6 @@
 #pragma once
 
-//MemoryManager v1.0
+//CustomHeapv1.0
 //Code written by carloschi7, first upload on 28/03/2022
 
 #include <algorithm>
